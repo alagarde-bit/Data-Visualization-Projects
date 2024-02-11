@@ -1,5 +1,5 @@
 # Data-Visualization-Projects
-Data Visualization Dashboards I create in my free time to showcase my ability to create effective dashboards.
+Data visualization dashboards I create in my free time to showcase my ability to create effective dashboards.
 
 My 6 pillars of data visualization:
 1. Proper Chart Types
