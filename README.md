@@ -1,4 +1,7 @@
 # Data-Visualization-Projects
+Welcome to my Data Visualization Portfolio! This repository is a collection of my work focusing on transforming complex datasets into clear, engaging, and informative visualizations.
+My portfolio demonstrates my ability to use various data visualization tools and technologies, including Tableau, Microsoft Power BI, and more!
+
 Data visualization dashboards I create in my free time to showcase my ability to create effective dashboards.
 
 My 6 pillars of data visualization:
